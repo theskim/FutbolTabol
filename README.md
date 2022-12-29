@@ -10,6 +10,7 @@ https://futboltabol.netlify.app/
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 **[Football Standings API](https://github.com/azharimm/football-standings-api)**
 
+## Next Script
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
