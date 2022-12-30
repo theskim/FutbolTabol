@@ -21,12 +21,8 @@ const Subtitle = styled.h2`
 export default function Intro() {
   return (
     <>
-    	<Title>
-        FutbolTabol
-			</Title>
-      <Subtitle>
-        Check the live standing of football leagues around the world!
-      </Subtitle>
+    	<Title>FutbolTabol</Title>
+      <Subtitle>Check the live standing of football leagues around the world!</Subtitle>
     </>
   );
 }

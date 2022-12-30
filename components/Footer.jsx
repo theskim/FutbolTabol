@@ -8,8 +8,6 @@ const FooterStyle = styled.h3`
 
 export default function Footer() {
   return (
-    <FooterStyle>
-      &copy; Sean Kim 2022. All rights reserved.
-    </FooterStyle>
+    <FooterStyle>&copy; Sean Kim 2022. All rights reserved.</FooterStyle>
   );
 }

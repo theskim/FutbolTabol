@@ -1,7 +1,7 @@
-import LeagueAPIFetch from '../pages/api/league';
+import { useState, useEffect } from 'react';
 import Select from 'react-select'
-import {useState, useEffect} from 'react';
 import styled from "styled-components";
+import LeagueAPIFetch from '../pages/api/league';
 
 const TableRow = styled.tr`
    align-items: left;
@@ -59,7 +59,7 @@ export default function Table() {
       },
       {
           value: "por.1",
-          name: "Portuguese Liga",
+          name: "Liga Portugal",
       },
       {
           value: "rus.1",
@@ -174,7 +174,7 @@ export default function Table() {
                 ))}
             </tbody>
           </table>
-          </>)}
+        </>)}
       </>
    );
 }
