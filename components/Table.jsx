@@ -56,11 +56,11 @@ export default function Table() {
       {
           value: "fra.1",
           label: "French Ligue 1",
-      },
+      },      
       {
-          value: "por.1",
-          name: "Liga Portugal",
-      },
+        value: "por.1",
+        label: "Liga Portugal",
+      },     
       {
           value: "rus.1",
           label: "Russian Premier League",
